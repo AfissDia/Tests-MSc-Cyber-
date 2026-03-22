@@ -1,7 +1,7 @@
-# Exercice 03 – Docker
+# Exercice 03 - Docker
 
 ## Objectif
-Déployer une application web en utilisant Docker et Docker Compose.
+Déploiement une application web en utilisant Docker et Docker Compose.
 
 ## Services
 - MySQL
